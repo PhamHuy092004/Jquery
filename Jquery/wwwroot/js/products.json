@@ -1,0 +1,14 @@
+{
+  "products": {
+    "Sản phẩm 1": {
+      "Price": 100,
+      "Description": "Mô tả 1",
+      "Category": "Danh mục 1"
+    },
+    "Sản phẩm 2": {
+      "Price": 200,
+      "Description": "Mô tả 2",
+      "Category": "Danh mục 2"
+    }
+  }
+}
